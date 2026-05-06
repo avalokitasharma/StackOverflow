@@ -35,5 +35,5 @@ A production-ready implementation of a **Stack Overflow-scale like Q&A platform*
 ### Clone & Prepare
 
 ```bash
-git clone https://github.com/avalokitasharma/QuestionCode.git
-cd QuestionCode
+git clone https://github.com/avalokitasharma/StackOverflow.git
+cd StackOverflow
